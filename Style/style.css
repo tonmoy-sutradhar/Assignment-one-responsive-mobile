@@ -553,6 +553,7 @@ nav button {
   align-items: center;
   gap: 20px;
   margin-top: 30px;
+  padding: 20px;
   border: 2px solid rgb(176, 169, 184);
   border-radius: 14px;
 }
